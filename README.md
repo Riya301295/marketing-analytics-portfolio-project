@@ -49,23 +49,6 @@ Interactive dashboard showing:
 - Positive customer sentiment dominated reviews
 - Average customer rating remained around 3.7/5
 
-## Repository Structure
-
-marketing-analytics-portfolio-project/
-│── README.md
-│── marketing_analytics_dashboard.pbix
-│── customer_sentiment_analysis.py
-│── customer_reviews_with_sentiment.csv
-│── marketing_analytics_database.bak
-│── calendar_table_dax.txt
-│
-└── sql/
-    ├── dim_customers.sql
-    ├── dim_products.sql
-    ├── fact_customer_reviews.sql
-    ├── fact_engagement_data.sql
-    └── fact_customer_journey.sql
-
 ## Skills Demonstrated
 
 - SQL Querying
